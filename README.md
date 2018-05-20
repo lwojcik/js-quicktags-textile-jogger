@@ -8,7 +8,7 @@ In September 2009 Textile got eventually replaced by Markdown, thus making the s
 
 ## Original documentation
 
-Latest revision as of 24 September 2009. Retrieved from JoggerWiki in May 2018. See [Install-PL.md](https://raw.githubusercontent.com/lwojcik/js-quicktags-textile-jogger/master/Install-PL.md).
+Latest revision as of 24 September 2009. Retrieved from [JoggerWiki](http://wiki.jogger.pl/wiki/Wstawianie_Textile_w_komentarzach) in May 2018. See [Install-PL.md](https://raw.githubusercontent.com/lwojcik/js-quicktags-textile-jogger/master/Install-PL.md).
 
 ## License
 
