@@ -1,4 +1,4 @@
-# JS Quicktags - support of Textitle for Jogger.pl
+# JS Quicktags - support for Textile syntax for Jogger.pl
 
 Port of [JS Quicktags by Alex King](http://alexking.org/projects/js-quicktags) to provide Textile support for now-defunct Jogger.pl blogging platform. Supporting Textlite and Textlite Lite variants, with or without images.
 
